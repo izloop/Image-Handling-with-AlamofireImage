@@ -1,6 +1,5 @@
 //
 //  imageXtensionJSON.swift
-//  fixer
 //
 //  Created by Izloop on 5/17/19.
 //  Copyright © 2019 Peter Levi Hornig. All rights reserved.
